@@ -1,0 +1,1 @@
+I decided to try to remake another website with bootstrap, ofcourse I was not able to make it completely but I learned everything about bootstrap that needed and I love it. I made two pages, if you click on "matur" you will be directed to a menu. (not a good looking in the css world but still a menu)
