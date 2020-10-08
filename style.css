@@ -5,6 +5,7 @@ html, body {
   font-size: large;
   font-variant: small-caps;
   color: black;
+  background-color: beige;
 }
 
 .navbar {
@@ -100,6 +101,20 @@ hr.light {
   border-top: 1px solid black;
   width: 75%;
   margin-top: 0.8rem;
+}
+
+h1 {
+  text-align: center;
+  padding-top: 5%;
+  color: brown;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 10%;
+  padding-top: 10%;
 }
 
 /*# sourceMappingURL=style.css.map */
